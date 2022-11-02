@@ -5,16 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello, world!
 
-I am EmperorRP, and I love blockchain and design. I develop code in Solidity to make my Decentralized Applications (Dapps). I have attached my two latest projects for you to see. 
-
-1. Building an Ethereum Staker contract:
- - Deployed at http://sordid-card.surge.sh/
- - Code available [here](https://goerli.etherscan.io/address/0xf6BCDaFf77A1829de4eE60fb813F379ea7b8ae6B#code)
-
-2. Building a token vendor for my own theweekndcoin:
- - Deployed at https://royal-rock.surge.sh/
- - Code available [here](https://goerli.etherscan.io/address/0xBCAeA7B15a984973Fa283dA01d43aF6Ec2cefd99#code)
- - Code explanation [here](https://github.com/EmperorRP/creating-token-vendor)
+I am EmperorRP, and I love blockchain and design. I develop code in Solidity to make my Decentralized Applications (Dapps). I have attached my two latest projects at the end for you to see. 
 
 I am constantly studying and working on blockchain related stuff by developing effective solutions and training myself to find and fix the problems I see.
 
@@ -35,9 +26,20 @@ https://www.holopin.io/@emperorrp
 ## Guess what? I am also a cool UI/UX designer
 Check out my design portfolio at https://www.behance.net/saileelar
 
-My go-to tools for making designs:
+### My go-to tools for making designs:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+### My latest Ethereum Dapps
+
+1. Building an Ethereum Staker contract:
+ - Deployed at http://sordid-card.surge.sh/
+ - Code available [here](https://goerli.etherscan.io/address/0xf6BCDaFf77A1829de4eE60fb813F379ea7b8ae6B#code)
+
+2. Building a token vendor for my own theweekndcoin:
+ - Deployed at https://royal-rock.surge.sh/
+ - Code available [here](https://goerli.etherscan.io/address/0xBCAeA7B15a984973Fa283dA01d43aF6Ec2cefd99#code)
+ - Code explanation [here](https://github.com/EmperorRP/creating-token-vendor)
