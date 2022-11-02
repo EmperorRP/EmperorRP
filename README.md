@@ -7,9 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 I am EmperorRP, and I love blockchain and design. I develop code in Solidity to make my Decentralized Applications (Dapps). I have attached my two latest projects for you to see. 
 
-> _I love developing on_  
-> ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
 1. Building an Ethereum Staker contract:
  - Deployed at http://sordid-card.surge.sh/
  - Code available [here](https://goerli.etherscan.io/address/0xf6BCDaFf77A1829de4eE60fb813F379ea7b8ae6B#code)
@@ -21,6 +18,9 @@ I am EmperorRP, and I love blockchain and design. I develop code in Solidity to 
 
 I am constantly studying and working on blockchain related stuff by developing effective solutions and training myself to find and fix the problems I see.
 
+> _I love developing on_  
+> ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+> 
 I can use the following programming languages:
 
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
