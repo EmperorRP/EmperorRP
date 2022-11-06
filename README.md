@@ -38,6 +38,7 @@ My go-to tools for making designs:
 1. Building an Ethereum Staker contract:
  - Deployed at http://sordid-card.surge.sh/
  - Code available [here](https://goerli.etherscan.io/address/0xf6BCDaFf77A1829de4eE60fb813F379ea7b8ae6B#code)
+ - Code explanation [here](https://github.com/EmperorRP/staker-contract-challenge-solution)
 
 2. Building a token vendor for my own theweekndcoin:
  - Deployed at https://royal-rock.surge.sh/
